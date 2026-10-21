@@ -194,3 +194,5 @@ tmp/
 .fsdocs/
 .vscode/launch.json
 tests/Farkle.Benchmarks/Lexer.fsi
+# Added by code-review-graph
+.code-review-graph/
