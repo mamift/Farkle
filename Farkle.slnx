@@ -14,6 +14,7 @@
     <Project Path="sample/Farkle.Calculator/Farkle.Calculator.fsproj" />
     <Project Path="sample/Farkle.Samples.CSharp/Farkle.Samples.CSharp.csproj" />
     <Project Path="sample/Farkle.Samples.CSharpV1/Farkle.Samples.CSharpV1.csproj" />
+    <Project Path="sample/Farkle.Samples.CSharpV1.Runner/Farkle.Samples.CSharpV1.Runner.csproj" />
     <Project Path="sample/Farkle.Samples.FSharp/Farkle.Samples.FSharp.fsproj" />
   </Folder>
   <Folder Name="/src/">

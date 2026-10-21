@@ -11,4 +11,5 @@ Currently we have:
 * A parser for C# 1.0/1.1 (the pre-generics language), written in C# under
   `Farkle.Samples.CSharpV1`. It builds a concrete syntax tree through a custom
   semantic provider and includes a report on what an LR(1) parser generator can and
-  cannot handle in the C# grammar.
+  cannot handle in the C# grammar. A thin console runner
+  (`Farkle.Samples.CSharpV1.Runner`) parses `.cs` files or directories with it.
